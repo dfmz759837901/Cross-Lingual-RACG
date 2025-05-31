@@ -3,7 +3,7 @@
 ### Appendix
 
 #### Prompt template in multi-lingual CodeRAG
-![Unified prompt template for LLMs to generate code in multi-lingual CodeRAG.](imgs/RACG_prompt_for_LLM.png)
+![Unified prompt template for LLMs to generate code in multi-lingual CodeRAG.](imgs/RACG_prompt_for_LLM.png){: width="60%"}
 *Figure: Unified prompt template for LLMs to generate code in multi-lingual CodeRAG.*
 
 #### Instance distribution in Dataset
