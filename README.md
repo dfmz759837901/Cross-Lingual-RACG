@@ -29,4 +29,4 @@
 | Swift                    | 937                                  |
 | **Total**                | **13910**                            |
 
-*Table: Instance distribution across 13 programming languages in Multilingual Code Dataset Expansion for CodeRAG (Total 13,910 instances)*
+*Table: Instance distribution across 13 programming languages in Multilingual Code Dataset Expansion for RACG (Total 13,910 instances)*
